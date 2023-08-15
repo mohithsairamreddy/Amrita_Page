@@ -1,0 +1,77 @@
+.navbar {
+    background-color: #86b5d6;
+    border-radius: 0.3rem;
+    box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.1rem;
+    padding: 0.8rem 1rem;
+    text-decoration: none;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #6495b0;
+  }
+  
+  .navbar-toggler {
+    border: none;
+    background-color: transparent;
+  }
+  
+  .navbar-toggler .navbar-toggler-icon {
+    color: #fff;
+  }
+
+
+body {
+  background-color: #f8f7f4;
+  font-family:cursive;
+}
+
+.table-responsive {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.table {
+  border-collapse: collapse;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+}
+
+.table th {
+  background-color: #fafafa;
+  text-align: center;
+}
+
+.table td {
+  text-align: center;
+}
+
+.table-bordered {
+  border: 1px solid #333333;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #414141;
+  border-left: 1px solid #000;
+}
+
+h1{
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
